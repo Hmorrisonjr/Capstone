@@ -28,9 +28,7 @@ This project is a portable indoor air quality monitoring system designed to meas
 - /demo → Demo video (if applicable)
 - /documentation → This readme.txt and any manuals
 - /code → Source code (Arduino .ino)
-- /resources → Circuit diagram, sensor datasheets, etc.
 - /data → Collected air quality readings & analysis
-- /other → Extra files (photos, charts, calibration notes)
 
 ---
 

@@ -95,4 +95,4 @@ This project is a portable indoor air quality monitoring system designed to meas
 Herbert Morrison Jr.  
 Ashesi University – Capstone 2025  
 Email: morrison29th@gmail.com
-Link to GitHub Repository: 
+Link to GitHub Repository: https://github.com/Hmorrisonjr/Capstone.git

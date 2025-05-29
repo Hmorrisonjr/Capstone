@@ -1,0 +1,43 @@
+
+==========================
+MQTT Dashboard Applications
+==========================
+
+1. MQTT Explorer (Desktop)
+---------------------------
+MQTT Explorer is a desktop client for MQTT protocol that provides an intuitive and powerful interface to explore MQTT topics and messages.
+
+🔗 Download link:
+https://mqtt-explorer.com/
+
+Supported Platforms:
+- Windows
+- macOS
+- Linux
+
+Installation:
+- Download the version for your OS from the website above.
+- Install and run the application.
+- Configure your broker (e.g., mqtt-dashboard.com on port 1883).
+- Add topics like:
+  - hhh/herbert/pm1
+  - hhh/herbert/pm25
+  - hhh/herbert/pm10
+  - hhh/herbert/voc
+  - hhh/herbert/nox
+  - hhh/herbert/temp
+  - hhh/herbert/hum
+
+2. IoT MQTT Panel (Mobile)
+---------------------------
+IoT MQTT Panel is a mobile app used to display MQTT data on dashboards with gauges, charts, and more.
+
+🔗 Download Links:
+- Android (Google Play): https://play.google.com/store/apps/details?id=com.thn.iotmqttdashboard
+- iOS (App Store): https://apps.apple.com/us/app/iot-mqtt-panel/id1476010121
+
+Setup:
+- Add a new broker: mqtt-dashboard.com, port 1883.
+- Add widgets for each topic:
+  - Gauge or value display for PM, VOC, NOx, Temp, Humidity
+  - Use charts for viewing data trends
